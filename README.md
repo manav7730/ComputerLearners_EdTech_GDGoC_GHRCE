@@ -7,78 +7,78 @@ Instead of giving a single recommendation, SmartPath compares multiple learning 
 🎯 Problem Statement
 Many learners struggle with:
 
-Choosing the right course or learning path
+◉ Choosing the right course or learning path
 
-Overwheling options (YouTube, bootcamps, degrees, certifications)
+◉ Overwheling options (YouTube, bootcamps, degrees, certifications)
 
-No clear explanation of pros vs cons
+◉ No clear explanation of pros vs cons
 
-Most platforms tell users what to choose, but do not explain why.
+◉ Most platforms tell users what to choose, but do not explain why.
 
 💡 Solution
 SmartPath:
 
-Collects user preferences (goal, experience level, priority)
+◉ Collects user preferences (goal, experience level, priority)
 
-Compares multiple learning approaches
+◉ Compares multiple learning approaches
 
-Shows pros, cons, and trade-offs
+◉ Shows pros, cons, and trade-offs
 
-Provides a final insight, not a forced answer
+◉ Provides a final insight, not a forced answer
 
-This helps learners understand choices, not blindly follow recommendations.
+◉ This helps learners understand choices, not blindly follow recommendations.
 
 🧠 Where AI is Used
 Decision logic mimics AI reasoning by:
 
-Evaluating multiple options
+◉ Evaluating multiple options
 
-Applying conditional logic based on user input
+◉ Applying conditional logic based on user input
 
-Generating contextual explanations
+◉ Generating contextual explanations
 
-Designed to be extendable to LLMs (Gemini / Vertex AI) in future
+◉ Designed to be extendable to LLMs (Gemini / Vertex AI) in future
 
 🛠 Tech Stack
 Python
 
-Streamlit (Frontend & MVP UI)
+◉ Streamlit (Frontend & MVP UI)
 
-Decision Logic Module
+◉ Decision Logic Module
 
-GitHub (Version control)
+◉ GitHub (Version control)
 
 ⚙️ Setup & Run Instructions
 # Clone repository
-git clone <your-repo-link>
+⇨ git clone <your-repo-link>
 
 # Navigate to project
-cd techsprint-edtech-smartpath
+⇨ cd techsprint-edtech-smartpath
 
 # Install dependencies
-pip install -r requirements.txt
+⇨ pip install -r requirements.txt
 
 # Run the app
-streamlit run app.py
+⇨ streamlit run app.py
 🧪 MVP Features
-User input for learning goal & experience
+⇨ User input for learning goal & experience
 
-Comparison of learning paths
+⇨ Comparison of learning paths
 
-Pros & cons visualization
+⇨ Pros & cons visualization
 
-Final recommendation insight
+⇨ Final recommendation insight
 
 🔮 Future Improvements
-Integration with Gemini API
+◉ Integration with Gemini API
 
-Personalized course suggestions
+◉ Personalized course suggestions
 
-User progress tracking
+◉ User progress tracking
 
-Multilingual support
+◉ Multilingual support
 
 👤 Team
-Solo Participant
+▶ Solo Participant
 
 TechSprint 2026 – EdTech Track
